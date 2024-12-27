@@ -1,1 +1,1 @@
-# image-to-image-search
+This is an implemenation of image to image search engine using a public dataset from Kaggle for music instrumentals. I use clip model from OpenAI for image embedding and chromaDB for storing the embedding vector.
